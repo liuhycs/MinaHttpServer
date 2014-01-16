@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/aopalliance.jar"/>
+	<classpathentry kind="lib" path="libs/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="libs/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-api-2.0-beta9.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-core-2.0-beta9.jar"/>
+	<classpathentry kind="lib" path="libs/mina-core-2.0.7.jar"/>
+	<classpathentry kind="lib" path="libs/mina-integration-beans-2.0.7.jar"/>
+	<classpathentry kind="lib" path="libs/mina-transport-apr-2.0.7.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="libs/spring-aop-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-aspects-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-beans-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-support-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-core-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-expression-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-jdbc-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-orm-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-oxm-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-tx-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
